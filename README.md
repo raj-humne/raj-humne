@@ -3,7 +3,7 @@
 🎓 BTech Computer Science Engineering student from Acropolis Institute Of Technology and Research, Indore  
 💻 Aspiring Frontend Developer passionate about modern UI and smooth animations  
 
-I enjoy building and cloning real-world websites to improve my frontend skills and understand clean design, responsiveness, and user experience.
+🟩I enjoy building and cloning real-world websites to improve my frontend skills and understand clean design, responsiveness, and user experience.
 
 ---
 
